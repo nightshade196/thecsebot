@@ -1,4 +1,4 @@
-# The CSE Bot
+## The CSE Bot
 This is the code repository running at the heart of our cute little bot 
 in our slack team.
 ****
